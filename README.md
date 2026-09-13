@@ -60,3 +60,25 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar um Pull Request
 📝 Licença
 
 Este projeto é de código aberto. Sinta-se livre para estudar e modificar o código.
+
+
+Links darkweb:
+- Verified Hacking Links List
+http://njxlpsukc52svveeehbortqep52c4toh3ayi5bwae4aaw2bs46d4g7ad.onion/  
+- The Island
+http://53gsgrg4h4pllwmndk3zska3be6vffp5lqoxf46tmnu7z7pll3affyid.onion  
+- Qilin Group
+http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/?page=1  
+- Ahmia Search Engine
+http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/  
+- DeepSearch
+http://search7tdrcvri22rieiwgi5g46qnwsesvnubqav2xakhezv4hjzkkad.onion/ 
+- ShadowX 
+http://shadowxn3o3kvvkbjyaoe33emqxrtadijp7xybizbht2thb6x5dvfhad.onion/
+- Everest Ransomware Group
+http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/news
+- Ragnar Locker
+http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion/
+- O LockBit 5.0 (Next-Gen) opera em modelo RaaS (Ransomware-as-a-Service).
+http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/
+
