@@ -82,3 +82,6 @@ http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion/
 - O LockBit 5.0 (Next-Gen) opera em modelo RaaS (Ransomware-as-a-Service).
 http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/
 
+
+
+
